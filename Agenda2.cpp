@@ -1,7 +1,6 @@
-// Teste de contribuição com branches
-//Adicionar meu nome:
-//Eder Carvalho Barbosa
-
+// Eder Carvalho Barbosa
+// Miqueias de Jesus da Silva
+// André Furlan
 #include <iostream>
 
 int main(int argc, char **argv)
