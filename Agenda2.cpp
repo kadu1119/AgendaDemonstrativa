@@ -1,4 +1,5 @@
-//Miqueias de Jesus da Silva
+// Eder Carvalho Barbosa
+// Miqueias de Jesus da Silva
 // André Furlan
 #include <iostream>
 
