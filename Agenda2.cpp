@@ -1,3 +1,5 @@
+// Mariana Pires Ribeiro
+// Lucas Alixame
 // Gabriel Fiaschi Ribeiro
 // Victor Hugo
 // Everton Ferreira Rodrigues
