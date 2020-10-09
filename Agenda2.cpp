@@ -1,5 +1,6 @@
+// Everton Ferreira Rodrigues
 // Rafael Henrique de Oliveira
-//Lucas Alixame
+// Lucas Alixame
 // Éric dos Santos Ferreira
 // Francisco Neto
 // Felipe Ferreira :)
