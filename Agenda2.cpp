@@ -1,4 +1,13 @@
 // Victor Hugo
+// Everton Ferreira Rodrigues
+// Rafael Henrique de Oliveira
+// Lucas Alixame
+// Éric dos Santos Ferreira
+// Francisco Neto
+// Felipe Ferreira :)
+// Eder Carvalho Barbosa
+// Miqueias de Jesus da Silva
+// André Furlan
 #include <iostream>
 
 int main(int argc, char **argv)
@@ -6,7 +15,7 @@ int main(int argc, char **argv)
 	int dia = 0;
 	int mes = 0;
 	int ano = 0;
-	char *descricao;
+	char *descricao = new char[100];
 
 	std::cout << "Informe o dia:" << std::endl;
 	std::cin >> dia;
